@@ -1,12 +1,19 @@
 ### Hi there 👋
-Under construction...! <br />
 
   <br />
-
   
-   <a href="https://www.qries.com/](https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.app/">
-         <img src="https://user-images.githubusercontent.com/79755067/177518374-4520fd7b-5664-4618-8aae-95140ed61949.jpg" style="width:20%;">
-   </a>
+ 
+  
+|  <img src="https://user-images.githubusercontent.com/79755067/177523717-90e0e266-346f-4f8e-8dfb-050d9cd75d99.jpg" width="60%"/> | <img src="https://user-images.githubusercontent.com/79755067/177521347-f7823032-b726-45c8-a10f-759ac9012b10.jpg" width="80%"/> |
+:----------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+| Github: https://github.com/CyberSam01/react-airbnb-experiences-clone  |  Github:  https://github.com/CyberSam01/online-friends
+Live Page:  https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.app/  | Live Page:  https://cybersam01.github.io/online-friends/
+
+
+
+
+
+
 
  https://cybersam01.github.io/online-friends/  <br />
  https://cybersam01.github.io/find-your-film/ <br />
@@ -22,3 +29,8 @@ Under construction...! <br />
  https://cybersam01.github.io/visit-new-york/ <br />
  https://cybersam01.github.io/blackjack/ <br />
  https://cybersam01.github.io/birthday-card/ <br />
+ 
+ 
+ | [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
