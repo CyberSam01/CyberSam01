@@ -4,7 +4,7 @@ Under construction...! <br />
   <br />
 
   
-   <a href="[https://www.qries.com/](https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.app/)">
+   <a href="https://www.qries.com/](https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.app/">
          <img src="https://user-images.githubusercontent.com/79755067/177518374-4520fd7b-5664-4618-8aae-95140ed61949.jpg" style="width:20%;">
    </a>
 
