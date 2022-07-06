@@ -13,11 +13,6 @@ Live Page:  https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.a
 
 
 
-
-
-
-
- https://cybersam01.github.io/online-friends/  <br />
  https://cybersam01.github.io/find-your-film/ <br />
  https://cybersam01.github.io/cards-game/ <br />
  https://cybersam01.github.io/colorApi/  <br />
@@ -33,6 +28,3 @@ Live Page:  https://react-airbnb-experiences-clone-8t2zqnzna-cybersam01.vercel.a
  https://cybersam01.github.io/birthday-card/ <br />
  
  
- | [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
