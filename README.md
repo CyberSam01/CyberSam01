@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### My name is Sam. This is where I deploy all my new projects. I am currently updating my read-me
 
   <br />
   
