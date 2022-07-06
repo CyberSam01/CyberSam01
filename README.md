@@ -1,7 +1,10 @@
 ### Hi there 👋
 Under construction...! <br />
-[webpage-screenshot](https://user-images.githubusercontent.com/79755067/177517884-01fefee9-4821-432e-8f62-e88f3e8d1305.jpg)
+
   <br />
+
+  <img src="https://user-images.githubusercontent.com/79755067/177518374-4520fd7b-5664-4618-8aae-95140ed61949.jpg">
+
  https://cybersam01.github.io/online-friends/  <br />
  https://cybersam01.github.io/find-your-film/ <br />
  https://cybersam01.github.io/cards-game/ <br />
