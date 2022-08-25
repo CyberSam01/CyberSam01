@@ -8,7 +8,7 @@
             <img src="https://user-images.githubusercontent.com/79755067/186513950-b80af10c-8008-49e8-9522-b5a9e8305d9c.png" width="250px"/>
          </td> 
          <td>
-             <img src="https://user-images.githubusercontent.com/79755067/186635718-8fb44d82-6809-4baa-8909-85a8546722d5.png" width="250px"/>
+             <img src="https://user-images.githubusercontent.com/79755067/186649224-52b64a24-9e2a-4aed-8ef2-3756253cb38c.png" width="250px"/>
           </td>
           <td> 
              <h4>Github: https://github.com/CyberSam01/eightzies</h4> <h4>Live page: https://eightzies-cybersam01.vercel.app</h4><h4>Play Eightzies on mobile, or Tenzies on your                       laptop</h4>
